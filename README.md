@@ -2,7 +2,7 @@
 
 Ce programme retrouve la personne (de notre classe) à laquelle vous pensez, le tout simplement à l'aide de vos réponses aux questions qu'il vous pose.
 
-Le sujet était libre, la seule contrainte était l'utilisation d'arbres.
+Le sujet était libre, la seule contrainte était l'utilisation d'arbres. (Projet L2)
 
 Ce programme contient des photos de l'ensemble de la classe il n'est donc pas possible de le partager, mais voici un apercu :
 
